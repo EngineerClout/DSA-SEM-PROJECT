@@ -78,13 +78,13 @@ Your application must provide a **CRUD (Create, Read, Update, Delete)** interfac
 
 1. **Code (GitHub):** Organized in `src/`, with modules for each DS and a `ui/` package.
 2. **README.md:** Setup, branch conventions, run instructions.
-3. **User Guide (**\`\`**\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*):** Screenshots, installation steps, and quick start.
-4. **Final Report (**\`\`**\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*):** 4–6 pages including:
+3. **User Guide:** Screenshots, installation steps, and quick start.
+4. **Final Report:** 4–6 pages including:
    - Architecture diagram (e.g., UML)
    - DS/algorithm analysis
    - Challenges & solutions
    - References
-5. **Demo Video (\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*):** 5–7 minutes screen recording explaining:
+5. **Demo Video:** 5–7 minutes screen recording explaining:
    - CRUD operations
    - Data structure internals (via logs or visualizer)
 
