@@ -10,7 +10,7 @@
 
 ### A.  Getting Started on GitHub
 
-1. **Instructor Repository:** The REPO has been created at `https://github.com/your‑org/DSA‑SemesterProject`.
+1. **Instructor Repository:** The REPO has been created at `https://github.com/your‑org/DSA‑Sem-Project`, refer to the PDF doc shared by your group representative for the actual link.
 2. **Joining the Repo:** Navigate to that URL and click **“Join this organization”** (students already in groups from the Queue assignment will remain in their existing teams).
 3. **Existing Groups:** Your **Queue Assignment groups** have been copied over. You do **not** need to re-form teams; work with your same group members.
 4. **Branch Setup:** Each student must create a **feature branch** named:
